@@ -4,7 +4,7 @@ title: Publications
 num: 5
 ---
 
-h1. PUBLICATIONS
+# PUBLICATIONS
 
 * [Information Quality and Credibility in Risk Assessment:  Section 307(d) Rulemakings under the Clean Air Act,](/resources/credibility-2012.pdf)  Environmental Law Reporter (2012)
 * [A Troubling Precedent:  Implementing the Precautionary Principle to Limit the Role of Science in European Decisionmaking,](/resources/precaution.pdf) Environmental Law Reporter (2011)
