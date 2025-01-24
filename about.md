@@ -6,7 +6,7 @@ num: 2
 
 # PRIOR AFFILIATIONS
 
-I am a former partner of the law firm of Hunton & Williams, one of the largest law firms in the world. As a seventeen year member of the firm’s “Resources, Regulatory and Environmental Law” team (seven years as an associate and more than ten years as a partner), I participated in a wide range of administrative rulemakings, judicial review proceedings, and enforcement litigation having national scope and effect. My clients have included the owners of coal-fired, steam electric generating facilities, chemical companies, and other industrial and manufacturing facilities.
+I am a former partner of the law firm of Hunton & Williams (now Hunton Andrews Kurth LLP). As a seventeen year member of the firm’s “Resources, Regulatory and Environmental Law” team (seven years as an associate and more than ten years as a partner), I participated in a wide range of administrative rulemakings, judicial review proceedings, and enforcement litigation having national scope and effect. My clients have included the owners of coal-fired, steam electric generating facilities, chemical companies, and other industrial and manufacturing facilities.
 
 I resigned my partnership with Hunton & Williams in the summer of 2005 to open my own office.
 
